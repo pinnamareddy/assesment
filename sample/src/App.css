@@ -1,0 +1,23 @@
+.login-container {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 402px;
+    width: 400px;
+    background-color: antiquewhite;
+    top: 100px;
+    left: 466px;
+}
+
+.input {
+    width: 170px;
+    height: 27px;
+    margin-bottom: 10px;
+}
+
+.passw {
+    margin-left: 48px;
+}
+
